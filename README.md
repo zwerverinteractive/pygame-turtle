@@ -19,7 +19,7 @@
 	turtle.moveRight(12)		#Turtle will strafe to the left for 12 pixels.
 	turtle.turnLeft(10)		#Turtle will rotate 10 degrees to the left.
 	turtle.turnRight(180)		#Turtle will rotate 180 degrees to the right
-	turtle.teleport(20, 50)		#Turtle will teleport to 20 pixels from the left and 50 pixels from the top.
+	turtle.teleport(20, 50)		#Turtle will teleport to 20 pixels from the left (x) and 50 pixels from the top (y).
 
 	turtle.penDown()		#Turtle will start drawing lines.
 	turtle.penUp()			#Turtle will stop drawing lines.
