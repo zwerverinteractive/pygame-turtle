@@ -2,6 +2,7 @@
 
 	#This program gives you a basic turtle to play around with.
 	#A simple, uncomplicated playground for learning python.
+	#I wrote it for my girlfriend.
 	#It is build on pygame, so you'll need to install that in addition to python. 
 	#Use your favourite seach engine to find out how to do that!
 
