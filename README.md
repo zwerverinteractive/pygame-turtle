@@ -1,4 +1,4 @@
-'''python
+'''
 
 	#This program gives you a basic turtle to play around with.
 	#A simple, uncomplicated playground for learning python.
