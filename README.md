@@ -5,6 +5,7 @@
 	#I wrote it for my girlfriend.
 	#It is build on pygame, so you'll need to install that in addition to python. 
 	#Use your favourite seach engine to find out how to do that!
+	#This is a decent python cheatsheet: https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf
 
 
 	from turtle import Turtle
